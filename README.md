@@ -1,1 +1,3 @@
-# repositorio-TI26-Camacho_Zamalloa
+# Proyecto TI26
+
+Estructura inicial del repositorio para el proyecto.
