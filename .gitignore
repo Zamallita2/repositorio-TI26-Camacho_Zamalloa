@@ -1,5 +1,6 @@
-# Datos crudos grandes (solo subir el .zip)
-data/raw/*.csv
+# Datos crudos grandes y comprimidos (ignorar en todo el proyecto)
+*.csv
+*.zip
 
 # Datos procesados generados localmente
 data/processed/
